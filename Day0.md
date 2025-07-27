@@ -10,7 +10,7 @@
 - Loops, input, functions
 
 ### What confused me:
-- [Leave blank if nothing]
+- nothing
 
 ### Next Steps:
 - Start daily routine from tomorrow!
